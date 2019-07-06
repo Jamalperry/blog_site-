@@ -14,3 +14,16 @@
 	line-height: 13px;
 	font-style: cursive;
 }
+
+.spa1 {
+	text-decoration: underline;
+}
+.spa2 {
+	font-family: forte;
+}
+.spa3 {
+	font-weight: bolder;
+}
+.spa4 {
+	font-family: monospace;
+}
