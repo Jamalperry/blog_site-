@@ -3,27 +3,32 @@
 }
 
 .part2 {
-	color: grey;
+	color: green;
 }
 .part3 {
 	color: blue;
 }
 .part4 {
-	color: pink;
+	color: skyblue;
 	font-size: 20px;
-	line-height: 13px;
+	line-height: 30px;
 	font-style: cursive;
+	line-height: 30px;
+	text-align: center;
 }
 
 .spa1 {
 	text-decoration: underline;
 }
 .spa2 {
-	font-family: forte;
+	text-decoration: underline;
+	color: lightgreen;
 }
 .spa3 {
 	font-weight: bolder;
+	color: lightblue;
 }
 .spa4 {
 	font-family: monospace;
+	text-decoration: underline;
 }
