@@ -1,12 +1,24 @@
+h1 {
+	text-align: center;
+	margin: 15px;
+}
+
+p {
+	padding: 5px;
+}
+
 .part1 {
 	color: red;
+	margin: 4px;
 }
 
 .part2 {
 	color: green;
+	margin: 4px;
 }
 .part3 {
 	color: blue;
+	margin: 4px;
 }
 .part4 {
 	color: skyblue;
@@ -15,6 +27,7 @@
 	font-style: cursive;
 	line-height: 30px;
 	text-align: center;
+	margin: 4px;
 }
 
 .spa1 {
