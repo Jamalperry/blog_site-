@@ -6,6 +6,12 @@ h1 {
 p {
 	padding: 5px;
 }
+img {
+	float: left;
+	margin: 10px;
+	width: 40%
+	height: 40%;
+}
 
 .part1 {
 	color: red;
